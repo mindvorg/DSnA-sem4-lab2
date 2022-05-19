@@ -10,7 +10,7 @@ int main()
 {
 	setlocale(LC_ALL, "rus");
 	string quote;
-	quote = "Если у вас произошло событие с вероятностью ноль, то вы полный неудачник.";
+	quote = "it is test string";
 
 	
 	cout << quote << ":" << endl;
